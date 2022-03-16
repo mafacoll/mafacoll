@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="340" height="340"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mariafarrancolell/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
