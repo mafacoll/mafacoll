@@ -20,7 +20,7 @@
 </h1>
 
 ### :woman_technologist: A little about me :
-
+- I'm a recent graduate from Ironhack and I look foward to starting my career in tech. 
 - :mailbox:The best way to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariafarrancolell/)
 
 
