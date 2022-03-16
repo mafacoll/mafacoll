@@ -14,10 +14,9 @@
 
 
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h2 align="center">
+  Thank you for checking my profile! 
+</h2>
 
 ### :woman_technologist: A little about me :
 - I'm a recent graduate from Ironhack's web development bootcamp and I look foward to starting my career in tech. 
