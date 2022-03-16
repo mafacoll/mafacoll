@@ -21,7 +21,7 @@
 
 ### :woman_technologist: A little about me :
 
-- :mailbox:The best way to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariafarrancolell/)
+- :mailbox:The best way to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariafarrancolell/)
 
 
 <!--
